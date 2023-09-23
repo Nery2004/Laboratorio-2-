@@ -1,0 +1,6 @@
+id,nombre,horario,duracion,dias,cantidadEstudiantes
+1,Programación,Lunes 9:00 AM,2,Lunes,20
+2,Matemáticas,Martes 10:00 AM,3,Martes,25
+3,Inglés,Miércoles 11:00 AM,1,Miércoles,15
+4,Historia,Jueves 9:00 AM,2,Jueves,18
+5,Física,Viernes 8:00 AM,3,Viernes,22
